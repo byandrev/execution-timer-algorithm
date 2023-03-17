@@ -1,5 +1,9 @@
 # :)
 
+## Importante
+
+Antes de ejecutar el script borren los archivos que estan dentro de la carpeta output.
+
 ## Requisitos
 
 * Instalar: Java, PHP, Python, NodeJS y C++.
