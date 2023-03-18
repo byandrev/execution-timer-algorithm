@@ -74,25 +74,28 @@ def run_all():
     ]
 
     for i in range(len(data)):
-        content_file_out = ""
-        language = data[i]["language"]
-        filename = data[i]["file"]
+        try:
+            content_file_out = ""
+            language = data[i]["language"]
+            filename = data[i]["file"]
 
-        if language == "cpp":
-            check_output(f"c++ {filename} -o D", shell=True)
-        elif language == "java":
-            check_output(f"javac {filename}", shell=True)
+            if language == "cpp":
+                check_output(f"c++ {filename} -o D", shell=True)
+            elif language == "java":
+                check_output(f"javac {filename}", shell=True)
 
-        message(f"TEST {language} START")
+            message(f"TEST {language} START")
 
-        for i in range(20):
-            content_file_out += f"Test {i+1}\n"
-            content_file_out += execute_tests(language, filename, i+1)
-            print(f"Test {i+1} executed")
+            for i in range(20):
+                content_file_out += f"Test {i+1}\n"
+                content_file_out += execute_tests(language, filename, i+1)
+                print(f"Test {i+1} executed")
 
-        write_file(f"./output/out_{language}", content_file_out)
+            write_file(f"./output/out_{language}", content_file_out)
 
-        message(f"TEST {language} FINISHED")
+            message(f"TEST {language} FINISHED")
+        except:
+            message(f"Error TEST {language}")
 
 
 run_all()
