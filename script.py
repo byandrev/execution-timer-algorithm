@@ -15,11 +15,14 @@ def message(msg):
     print("==========================")
 
 
-def get_command(language, file):
+def get_command(language, file, is_windows):
     ans = ""
 
     if (language == "cpp"):
-        ans = "./D"
+        if is_windows:
+            ans = ".\D.exe"
+        else:
+            ans = "./D"
     elif (language == "python"):
         ans = f"python {file}"
     elif (language == "java"):
@@ -32,7 +35,7 @@ def get_command(language, file):
     return ans
 
 
-def execute_tests(language, file, test_index):
+def execute_tests(language, file, test_index, is_windows):
     out = ""
 
     for i in range(5):
@@ -40,7 +43,7 @@ def execute_tests(language, file, test_index):
 
         time = 0
         start_time = datetime.now()
-        comando = f"{get_command(language, file)} < ./tests/{test_name}_{test_index}.txt"
+        comando = f"{get_command(language, file, is_windows)} < ./tests/{test_name}_{test_index}.txt"
         check_output(comando, shell=True)
         time = datetime.now() - start_time
 
@@ -50,6 +53,12 @@ def execute_tests(language, file, test_index):
 
 
 def run_all():
+    system = input("Windows or Linux, write w or l: ")
+    is_windows = False
+
+    if (system == "W"):
+        is_windows = True
+
     data = [
         {
             "language": "java",
@@ -88,7 +97,7 @@ def run_all():
 
             for i in range(20):
                 content_file_out += f"Test {i+1}\n"
-                content_file_out += execute_tests(language, filename, i+1)
+                content_file_out += execute_tests(language, filename, i+1, is_windows)
                 print(f"Test {i+1} executed")
 
             write_file(f"./output/out_{language}", content_file_out)
