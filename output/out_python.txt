@@ -1,0 +1,120 @@
+Test 1
+python Test 1 (2x2), 0.036312 
+python Test 2 (5x5), 0.037301 
+python Test 3 (10x10), 0.031541 
+python Test 4 (50x50), 0.030355 
+python Test 5 (100x100), 0.066891 
+Test 2
+python Test 1 (2x2), 0.036045 
+python Test 2 (5x5), 0.039147 
+python Test 3 (10x10), 0.030962 
+python Test 4 (50x50), 0.030688 
+python Test 5 (100x100), 0.050983 
+Test 3
+python Test 1 (2x2), 0.034803 
+python Test 2 (5x5), 0.034158 
+python Test 3 (10x10), 0.024689 
+python Test 4 (50x50), 0.030673 
+python Test 5 (100x100), 0.050894 
+Test 4
+python Test 1 (2x2), 0.033998 
+python Test 2 (5x5), 0.037154 
+python Test 3 (10x10), 0.030519 
+python Test 4 (50x50), 0.032286 
+python Test 5 (100x100), 0.051246 
+Test 5
+python Test 1 (2x2), 0.037262 
+python Test 2 (5x5), 0.034251 
+python Test 3 (10x10), 0.024479 
+python Test 4 (50x50), 0.029934 
+python Test 5 (100x100), 0.051615 
+Test 6
+python Test 1 (2x2), 0.036010 
+python Test 2 (5x5), 0.033004 
+python Test 3 (10x10), 0.024805 
+python Test 4 (50x50), 0.031399 
+python Test 5 (100x100), 0.052223 
+Test 7
+python Test 1 (2x2), 0.041781 
+python Test 2 (5x5), 0.029640 
+python Test 3 (10x10), 0.025164 
+python Test 4 (50x50), 0.030262 
+python Test 5 (100x100), 0.050924 
+Test 8
+python Test 1 (2x2), 0.037642 
+python Test 2 (5x5), 0.033360 
+python Test 3 (10x10), 0.024601 
+python Test 4 (50x50), 0.030153 
+python Test 5 (100x100), 0.050603 
+Test 9
+python Test 1 (2x2), 0.033496 
+python Test 2 (5x5), 0.033686 
+python Test 3 (10x10), 0.025116 
+python Test 4 (50x50), 0.031015 
+python Test 5 (100x100), 0.051273 
+Test 10
+python Test 1 (2x2), 0.033488 
+python Test 2 (5x5), 0.033014 
+python Test 3 (10x10), 0.024663 
+python Test 4 (50x50), 0.030078 
+python Test 5 (100x100), 0.051223 
+Test 11
+python Test 1 (2x2), 0.034064 
+python Test 2 (5x5), 0.032317 
+python Test 3 (10x10), 0.024753 
+python Test 4 (50x50), 0.030617 
+python Test 5 (100x100), 0.051997 
+Test 12
+python Test 1 (2x2), 0.035093 
+python Test 2 (5x5), 0.033001 
+python Test 3 (10x10), 0.024948 
+python Test 4 (50x50), 0.029965 
+python Test 5 (100x100), 0.052222 
+Test 13
+python Test 1 (2x2), 0.035446 
+python Test 2 (5x5), 0.043387 
+python Test 3 (10x10), 0.029506 
+python Test 4 (50x50), 0.030551 
+python Test 5 (100x100), 0.052604 
+Test 14
+python Test 1 (2x2), 0.031291 
+python Test 2 (5x5), 0.036157 
+python Test 3 (10x10), 0.024545 
+python Test 4 (50x50), 0.030392 
+python Test 5 (100x100), 0.052928 
+Test 15
+python Test 1 (2x2), 0.034730 
+python Test 2 (5x5), 0.034568 
+python Test 3 (10x10), 0.026768 
+python Test 4 (50x50), 0.030094 
+python Test 5 (100x100), 0.050885 
+Test 16
+python Test 1 (2x2), 0.035523 
+python Test 2 (5x5), 0.031934 
+python Test 3 (10x10), 0.024937 
+python Test 4 (50x50), 0.030917 
+python Test 5 (100x100), 0.052257 
+Test 17
+python Test 1 (2x2), 0.032925 
+python Test 2 (5x5), 0.036283 
+python Test 3 (10x10), 0.024778 
+python Test 4 (50x50), 0.030575 
+python Test 5 (100x100), 0.050870 
+Test 18
+python Test 1 (2x2), 0.034791 
+python Test 2 (5x5), 0.033928 
+python Test 3 (10x10), 0.025258 
+python Test 4 (50x50), 0.030478 
+python Test 5 (100x100), 0.052194 
+Test 19
+python Test 1 (2x2), 0.034656 
+python Test 2 (5x5), 0.031769 
+python Test 3 (10x10), 0.025037 
+python Test 4 (50x50), 0.030599 
+python Test 5 (100x100), 0.052297 
+Test 20
+python Test 1 (2x2), 0.033996 
+python Test 2 (5x5), 0.031906 
+python Test 3 (10x10), 0.025130 
+python Test 4 (50x50), 0.030316 
+python Test 5 (100x100), 0.051193 

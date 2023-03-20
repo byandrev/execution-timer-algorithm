@@ -1,0 +1,120 @@
+Test 1
+php Test 1 (2x2), 0.047206 
+php Test 2 (5x5), 0.026882 
+php Test 3 (10x10), 0.024740 
+php Test 4 (50x50), 0.025109 
+php Test 5 (100x100), 0.024242 
+Test 2
+php Test 1 (2x2), 0.034523 
+php Test 2 (5x5), 0.032437 
+php Test 3 (10x10), 0.024488 
+php Test 4 (50x50), 0.024214 
+php Test 5 (100x100), 0.024295 
+Test 3
+php Test 1 (2x2), 0.035852 
+php Test 2 (5x5), 0.034452 
+php Test 3 (10x10), 0.025631 
+php Test 4 (50x50), 0.025019 
+php Test 5 (100x100), 0.023874 
+Test 4
+php Test 1 (2x2), 0.037942 
+php Test 2 (5x5), 0.030874 
+php Test 3 (10x10), 0.024434 
+php Test 4 (50x50), 0.024248 
+php Test 5 (100x100), 0.025244 
+Test 5
+php Test 1 (2x2), 0.037441 
+php Test 2 (5x5), 0.037136 
+php Test 3 (10x10), 0.028467 
+php Test 4 (50x50), 0.024375 
+php Test 5 (100x100), 0.024531 
+Test 6
+php Test 1 (2x2), 0.035148 
+php Test 2 (5x5), 0.034770 
+php Test 3 (10x10), 0.024353 
+php Test 4 (50x50), 0.024478 
+php Test 5 (100x100), 0.024661 
+Test 7
+php Test 1 (2x2), 0.033955 
+php Test 2 (5x5), 0.031979 
+php Test 3 (10x10), 0.024463 
+php Test 4 (50x50), 0.024661 
+php Test 5 (100x100), 0.024548 
+Test 8
+php Test 1 (2x2), 0.035069 
+php Test 2 (5x5), 0.032134 
+php Test 3 (10x10), 0.024706 
+php Test 4 (50x50), 0.025265 
+php Test 5 (100x100), 0.024233 
+Test 9
+php Test 1 (2x2), 0.035091 
+php Test 2 (5x5), 0.031984 
+php Test 3 (10x10), 0.024444 
+php Test 4 (50x50), 0.024452 
+php Test 5 (100x100), 0.024415 
+Test 10
+php Test 1 (2x2), 0.033918 
+php Test 2 (5x5), 0.031518 
+php Test 3 (10x10), 0.024710 
+php Test 4 (50x50), 0.024747 
+php Test 5 (100x100), 0.024451 
+Test 11
+php Test 1 (2x2), 0.034837 
+php Test 2 (5x5), 0.034724 
+php Test 3 (10x10), 0.024570 
+php Test 4 (50x50), 0.024577 
+php Test 5 (100x100), 0.024487 
+Test 12
+php Test 1 (2x2), 0.033348 
+php Test 2 (5x5), 0.031494 
+php Test 3 (10x10), 0.023997 
+php Test 4 (50x50), 0.024745 
+php Test 5 (100x100), 0.024337 
+Test 13
+php Test 1 (2x2), 0.034931 
+php Test 2 (5x5), 0.032009 
+php Test 3 (10x10), 0.024420 
+php Test 4 (50x50), 0.025192 
+php Test 5 (100x100), 0.025180 
+Test 14
+php Test 1 (2x2), 0.043199 
+php Test 2 (5x5), 0.028383 
+php Test 3 (10x10), 0.024749 
+php Test 4 (50x50), 0.024727 
+php Test 5 (100x100), 0.024639 
+Test 15
+php Test 1 (2x2), 0.034003 
+php Test 2 (5x5), 0.029898 
+php Test 3 (10x10), 0.024779 
+php Test 4 (50x50), 0.023933 
+php Test 5 (100x100), 0.024303 
+Test 16
+php Test 1 (2x2), 0.033963 
+php Test 2 (5x5), 0.030917 
+php Test 3 (10x10), 0.024751 
+php Test 4 (50x50), 0.024431 
+php Test 5 (100x100), 0.024605 
+Test 17
+php Test 1 (2x2), 0.034844 
+php Test 2 (5x5), 0.033850 
+php Test 3 (10x10), 0.024905 
+php Test 4 (50x50), 0.024429 
+php Test 5 (100x100), 0.024562 
+Test 18
+php Test 1 (2x2), 0.035085 
+php Test 2 (5x5), 0.033507 
+php Test 3 (10x10), 0.024820 
+php Test 4 (50x50), 0.024076 
+php Test 5 (100x100), 0.024053 
+Test 19
+php Test 1 (2x2), 0.036400 
+php Test 2 (5x5), 0.030411 
+php Test 3 (10x10), 0.024387 
+php Test 4 (50x50), 0.024362 
+php Test 5 (100x100), 0.024584 
+Test 20
+php Test 1 (2x2), 0.032997 
+php Test 2 (5x5), 0.033943 
+php Test 3 (10x10), 0.025657 
+php Test 4 (50x50), 0.024522 
+php Test 5 (100x100), 0.024806 

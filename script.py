@@ -55,9 +55,11 @@ def execute_tests(language, file, test_index, is_windows):
 def run_all():
     system = input("Windows or Linux, write w or l: ")
     is_windows = False
+    filename_cpp = "./D.cpp"
 
-    if (system == "W"):
+    if (system == "w"):
         is_windows = True
+        filename_cpp = ".\D.cpp"
 
     data = [
         {
@@ -66,7 +68,7 @@ def run_all():
         },
         {
             "language": "cpp",
-            "file": "./D.cpp"
+            "file": filename_cpp
         },
         {
             "language": "python",
